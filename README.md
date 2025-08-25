@@ -1,0 +1,1 @@
+Learning about authorization and security patterns has been incredibly valuable. The difference between authentication ("who are you?") and authorization ("what can you do?") is crucial for building secure applications.
